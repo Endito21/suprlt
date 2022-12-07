@@ -1,0 +1,82 @@
+--------------  BOA LOGIN  -------------
+Onlineid : dsadsasda@gmail.sss
+Password : sad
+-------------- IP Infos ------------
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+---------------------- By Dr.Don  ----------------------
+--------------  BOA LOGIN  -------------
+Card Number  : 2312-1312-3213-1232
+Month        : 08
+Year         : 24
+CVV          : 232
+-------------- IP Infos ------------
+IP       : ::1
+-----------------------------------------------------
+--------------  BOA LOGIN  -------------
+Onlineid : x
+Password : x
+-------------- IP Infos ------------
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+---------------------- By Dr.Don  ----------------------
+--------------  BOA LOGIN  -------------
+Card Number  : 3213-1212-3213-1231
+Month        : 04
+Year         : 24
+CVV          : 232
+-------------- IP Infos ------------
+IP       : ::1
+-----------------------------------------------------
+--------------  BOA LOGIN  -------------
+Onlineid : dsadas
+Password : dsadas
+-------------- IP Infos ------------
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+---------------------- By Dr.Don  ----------------------
+--------------  BOA LOGIN  -------------
+Card Number  : 3122-3131-2312-
+Month        : 03
+Year         : 24
+CVV          : 232
+-------------- IP Infos ------------
+IP       : ::1
+-----------------------------------------------------
+--------------  BOA LOGIN  -------------
+Onlineid : 231312231
+Password : 321321231
+-------------- IP Infos ------------
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+---------------------- By Dr.Don  ----------------------
+--------------  BOA LOGIN  -------------
+Onlineid : sdasda
+Password : adsasdasd
+-------------- IP Infos ------------
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+---------------------- By Dr.Don  ----------------------
+--------------  BOA LOGIN  -------------
+Card Number  : 3223-2323-2323-2323
+Month        : 04
+Year         : 24
+CVV          : 232
+-------------- IP Infos ------------
+IP       : ::1
+-----------------------------------------------------
+--------------  BOA LOGIN  -------------
+Onlineid : x
+Password : 23
+-------------- IP Infos ------------
+IP       : ::1
+BROWSER  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+---------------------- By Dr.Don  ----------------------
+--------------  BOA LOGIN  -------------
+Card Number  : 6785-4534-3543-5412
+Month        : 02
+Year         : 24
+CVV          : 2541
+-------------- IP Infos ------------
+IP       : ::1
+-----------------------------------------------------
